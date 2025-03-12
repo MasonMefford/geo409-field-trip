@@ -10,3 +10,4 @@ The above map shows the counties of Kentucky and the associated land cover  from
 
 The above map models tree canopy height across UK's Central Campus. The model was created using DSM, DEM, and NDVI layers to estimate tree height. 
 
+Maps were created by MasonMefford for GEO 409 spring 2025, University of Kentucky Geography Department 
